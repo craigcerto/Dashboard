@@ -822,7 +822,8 @@ public class UI extends javax.swing.JFrame{
             
         }
     }
-   
+    
+    /* WRITTEN BY NETBEANS UI BUILDER */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
