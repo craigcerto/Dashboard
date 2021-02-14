@@ -17,4 +17,4 @@ Displays a five day forecast for College Park, MD using Accuweather API.
 
 Retrieves slot information from IMLeagues for University of Maryland gym reservations using Chromedriver library. The buttons are green if there are available slots for the gym session and red if closed or unavailable. Hitting a green button will automatically register me for the gym session.
 
-![Alt text](reservespot.gif?raw=true "full-image")
+![Alt text](reserve.gif?raw=true "full-image")
